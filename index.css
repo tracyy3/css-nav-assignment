@@ -1,0 +1,35 @@
+.cfh 
+    {display:flex; align-self:center; font-size: 41px;
+    background-color: purple;
+    color:white;
+    font-family:serif;
+    }
+.menu 
+    {display: flex;
+    flex-flow:nowrap row; 
+    background-color:black;
+    color:white; 
+    font-family:serif}
+.nav image 
+    {display:flex
+    ;}
+
+.log in 
+    {display:flex;
+    justify-content:center
+    align-items:center
+    background-color: black;}
+
+.container {
+    display: flex; 
+    background-color: black; 
+    color:white; 
+    align-items:center;
+    justify-content:space-between
+}
+
+.nav-links {
+    display: flex; 
+
+}
+.nav-links li {padding: 20px}
